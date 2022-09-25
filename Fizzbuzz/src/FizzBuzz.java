@@ -14,6 +14,7 @@ public class FizzBuzz {
                 System.out.println("Fizz");
             } else if (i % 5 == 0) {
                 System.out.println("Buzz");
+                // ligne de commentaire 2
             } else {
                 System.out.println(i);
             }
