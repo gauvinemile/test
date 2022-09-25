@@ -15,7 +15,7 @@ public class FizzBuzz {
             } else if (i % 5 == 0) {
                 System.out.println("Buzz");
 <<<<<<< HEAD
-                // ligne de commentaire 2 et 3
+                // ligne de
 =======
                 
 >>>>>>> 09e9d55318401129c417a9d7b3757bdc45cc6da4
